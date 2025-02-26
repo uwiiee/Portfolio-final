@@ -1,0 +1,22 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius:100px;
+    box-shadow: 0 0 60px 30px
+    rgba(43, 250, 243, 0.8);
+    border: solid;
+    border-color:rgb(5, 253, 216);
+}
+
+body{
+    background-image: url(memberBg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 20px;
+    color:aliceblue
+  
+    
+}
+

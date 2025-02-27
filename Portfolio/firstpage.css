@@ -1,0 +1,92 @@
+h2{
+    color: rgb(78, 62, 6);
+   font: optional;
+    font-size: 50px;
+    
+    opacity: 70;
+    animation: fadeIn 2s ease-in-out forwards; 
+   
+}
+h3{
+    opacity: 70;
+    animation: fadeIn 1s ease-in-out forwards;
+   
+}
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+
+h3{
+    color:rgb(255, 236, 172);
+    font-size: 30px;
+    font-weight: bold;
+    margin: 1px;
+    text-underline-offset: 2px;
+    
+    
+}
+#Group
+{
+    font-size: 40px;
+    color: rgb(78, 62, 6);
+}
+a{
+    font-size: 25px;
+    color: rgb(255, 183, 0);
+    font-weight:500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Times New Roman', Times, serif, Verdana, sans-serif;
+    font-style: Lucida;
+    background-color: rgba(46, 192, 63, 0);
+    border-radius: 5px 5px 5px 5px;
+    text-underline-offset: 4px;
+    padding: 5px 5px 5px 5px;
+}
+
+hr{
+height: 5px;
+background-color:rgba(255, 245, 168, 0);
+ box-shadow: 0px 0px 5px 10px rgba(255, 245, 168, 0.912);
+margin: 10px;
+}
+body{
+    background-image: url(download.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-size: 2000px;
+}
+
+button{
+color: rgba(240, 248, 255, 0);
+ 
+
+}
+.fplink{
+    background-color: rgba(18, 148, 11, 0);
+    transition: box-shadow 0.3s ease-in-out;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px 20px;
+    box-shadow: 3px 3px 2.5px 2.5px
+    rgb(254, 198, 12);
+    padding: 3px 3px 3px 3px;
+    margin:25px 25px 25px 25px;
+    font-size: 20px;
+    border: solid;
+}
+.fplink:hover{
+    box-shadow: 0px 0px 8px 10px
+    rgb(254, 198, 12);
+    transform: scale(1.1);
+    animation: glow 2s infinite ease-in-out;
+    
+}
+hr{
+    margin:10px;
+    
+}

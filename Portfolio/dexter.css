@@ -1,0 +1,53 @@
+#pfp{
+    height: 200px;
+    width: 200px;
+    border-radius:100px;
+    box-shadow: 0 0 60px 30px
+    rgba(43, 250, 243, 0.8);
+    border: solid;
+    border-color:rgb(5, 253, 216);
+} 
+ 
+#ba{
+    
+    height: 40px;
+    width: 40px;
+    border-radius:10px;
+    size: 100px;
+    background-color: rgba(255, 255, 255, 0.963);
+    
+    
+}
+
+body{
+    background-image: url(memberBg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 20px;
+    color:aliceblue
+  
+    
+}
+
+a{
+    color:aliceblue;
+}
+
+#giti{
+    height: 40px;
+    width: 40px;
+    border-radius:10px;
+    size: 100px;
+    background-color: rgba(255, 255, 255, 0.963);
+    margin-right: 20px;
+}
+
+h2{
+ margin-left: 25px;
+}
+
+
+
+
